@@ -1,1 +1,3 @@
-<img align="right" heigth="590em" src="![image](https://user-images.githubusercontent.com/83080823/141177750-9cbf66eb-0e41-4c88-8ba2-57fd0a3622f0.png)"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/ViniciusRMoreira/e8c58a016a7f0ba4b6bd153e53cc5da9/raw/db066b30bfc8c42a31021eac54d64dc651462cd2/card.svg"/> 
+
+
