@@ -22,7 +22,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0046FF?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-0046FF?style=flat&logo=Flutter)&nbsp;
 
-
+<p></p>
 <br><br>
 <br><br>
 ## ⚙️ &nbsp;GitHub Analytics
