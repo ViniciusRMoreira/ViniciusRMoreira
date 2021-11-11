@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [ViniciusRMoreira](https://github.com/ViniciusRMoreira)
 
+- 😎 My LinkedIn is [LinkedIn](https://www.linkedin.com/in/vinicius-rodolfo-silva-de-oliveira-e-moreira-99531120b/)
+
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -22,7 +24,7 @@
 
 
 <br><br>
-
+<br><br>
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
@@ -31,13 +33,10 @@
 
 <br><br>
 
-## &nbsp;Social Links
 
 
-<a href="https://www.linkedin.com/in/vinicius-rodolfo-silva-de-oliveira-e-moreira-99531120b/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-viniciusrodolfo-0046FF?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
 
-</p>
+
+
 
 
